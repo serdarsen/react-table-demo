@@ -18,7 +18,7 @@
   background-color: #ddd;
 }
 
-.basic-table th {
+.basic-table th, tfoot td {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
