@@ -1,5 +1,5 @@
 # Personal Job Tracking Demo App
-### [Live Site](https://react-table-demo.netlify.app/)
+### [Live Site](https://serdarsen-react-table-demo.netlify.app/)
 
 ![React Table Demo](./screenshot.png)
 
